@@ -1,0 +1,1 @@
+# blur-i3-lock
